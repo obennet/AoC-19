@@ -1,5 +1,6 @@
 import random
 
+
 def main():
     data = read_data()
     print(data)
@@ -21,6 +22,7 @@ def brute_force(data, value_to_find):
     print("Noun:", noun)
     print("Verb:", verb)
     print("Answer:", answer)
+    print("List:", data)
 
 
 
