@@ -3,7 +3,7 @@
     Advent of Code 2019 🎄🌟
   </p>
 
-<img class="gif" src="https://media.giphy.com/media/11EjiLDatd0syA/giphy.gif" style="width: 500px">
+<img style="width: 500px;" class="gif" src="https://media.giphy.com/media/11EjiLDatd0syA/giphy.gif" >
 
 </div>
 
