@@ -1,4 +1,3 @@
-# AoC-19
 <div align="center">
   <p>
     Advent of Code 2019 🎄🌟
