@@ -5,4 +5,6 @@
 
 ![](https://media.giphy.com/media/11EjiLDatd0syA/giphy.gif)
 
+<img class="animated-gif" src="https://media.giphy.com/media/Wq6DnHvHchrTG/giphy.gif">
+
 <div>
