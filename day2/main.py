@@ -25,7 +25,6 @@ def brute_force(data, value_to_find):
     print("List:", data)
 
 
-
 def read_data():
     with open("input.txt") as inp:
         data = inp.read().split(',')
